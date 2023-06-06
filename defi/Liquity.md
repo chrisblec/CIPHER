@@ -7,3 +7,5 @@ Liquity is an immutable protocol which cannot be modified or stopped by its crea
 Liquity’s immutable code does include a “sanity check” that would be automatically utilized if Chainlink’s price feed stopped updating or sent very flawed data. In that case, the smart contract would look to the Tellor ETH/USD oracle for price data.
 
 Outside of this oracle risk, funds deposited into a Liquity CDP cannot be tampered with by anyone other than the owner of the depositing wallet, outside of protocol-driven liquidations and redemptions.
+
+Learn more at https://blec.report/liquity-lusd/.
