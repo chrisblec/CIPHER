@@ -1,5 +1,5 @@
-# cipher
-*CIPHER | Cryptocurrency Initiative for Public Honesty and Ethical Responsibility*
+# CIPHER
+*Cryptocurrency Initiative for Public Honesty and Ethical Responsibility*
 
 Crypto and DeFi project teams have an ethical duty to offer full transparency to their end users on all potential negative outcomes. CIPHER is an effort to expose the most centralized, trust-heavy parts of every crypto and DeFi application to retail users. Full transparency requires radical honesty.
 
